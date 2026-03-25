@@ -3,42 +3,54 @@
 🎓 IT Engineering Student at ESPRIT  
 
 ---
-
 ## 🚀 Technical Skills
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55"/>
 </p>
 
 ---
 
 ### 🌐 Web Development & Frameworks
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="55"/>
 </p>
 
----
 
 
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,postgres" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="55"/>
+
 </p>
 
 ---
 
 ### 🛠️ Tools & Platforms
 <p>
-  
-  <img src="https://skillicons.dev/icons?i=git,linux,cisco,gns3,virtualbox,vmware,ubuntu"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" height="55"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" height="55"/>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gns3,virtualbox" height="55"/>
 </p>
 
 ---
-
-
 
 ## 📊 GitHub Stats
 
