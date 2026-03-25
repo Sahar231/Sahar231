@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55"/>
 </p>
 
----
+
 
 ### 🌐 Web Development & Frameworks
 <p>
@@ -33,7 +33,7 @@
 
 </p>
 
----
+
 
 ### 🛠️ Tools & Platforms
 <p>
@@ -41,14 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" height="55"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" height="55"/>
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=gns3,virtualbox" height="55"/>
-</p>
+  
 
 ---
 
