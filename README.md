@@ -1,11 +1,11 @@
 
-## Hi there 👋 I'm **Sahar Riabi**  
-🎓 IT Engineering Student at ESPRIT  
+                                              ## Hi there 👋 I'm **Sahar Riabi**  
+                                               🎓 IT Engineering Student at ESPRIT  
 
 
 ## 🚀 Technical Skills
 
-### 💻 Programming Languages
+                                            ### 💻 Programming Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55"/>
@@ -16,14 +16,14 @@
 
 
 
-### 🌐 Web Development & Frameworks
+                                         ### 🌐 Web Development & Frameworks
 <p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="55"/>
 </p>
 
-### 📱 Mobile Development
+                                            ### 📱 Mobile Development
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="55"/>
   <img src="https://skillicons.dev/icons?i=flutterflow" height="55"/>
@@ -31,16 +31,16 @@
 
 
 
-### 🗄️ Databases
+                                            ### 🗄️ Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="55"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="55"/>
 </p>
 
 
 
-### 🛠️ Tools & Platforms
+                                            ### 🛠️ Tools & Platforms
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55"/>
@@ -50,7 +50,7 @@
 
 
 
-## 📊 GitHub Stats
+                                           ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sahar231&show_icons=true&theme=radical" height="160"/>
@@ -59,13 +59,13 @@
 </p>
 
 
-## 👀 Profile Visitors
+                                          ## 👀 Profile Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sahar231&label=Profile%20views&color=ff69b4&style=for-the-badge" />
 </p>
 
-## 🌟 Connect With Me
+                                         ## 🌟 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/riabi-sahar-96513129b/">
