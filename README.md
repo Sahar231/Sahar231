@@ -1,6 +1,5 @@
-## Hi there 👋
 
-I'm **Sahar Riabi**  
+## Hi there 👋 I'm **Sahar Riabi**  
 🎓 IT Engineering Student at ESPRIT  
 
 ---
@@ -8,49 +7,61 @@ I'm **Sahar Riabi**
 ## 🚀 Technical Skills
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php" />
+</p>
 
 ---
 
 ### 🌐 Web Development & Frameworks
-![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat&logo=symfony)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="50"/>
+</p>
 
 ---
 
 
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,postgres" />
+</p>
 
 ---
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![GNS3](https://img.shields.io/badge/-GNS3-2C2C2C?style=flat)
+<p>
+  
+  <img src="https://skillicons.dev/icons?i=git,linux,cisco,gns3,virtualbox,vmware,ubuntu"  />
+</p>
 
 ---
+
+
 
 ## 📊 GitHub Stats
-![Sahar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahar231&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahar231&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar231&layout=compact&theme=radical" height="160"/>
+</p>
 
 ---
 
-## 📫 How to reach me
-- 📧 Email: riabi.sahar@esprit.tn 
+## 🌟 Connect With Me
 
+<p align="center">
+  <a href="https://linkedin.com/in/riabi-sahar-96513129b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sahar231">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:Riabi.Sahar@esprit.tn">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
-
 
