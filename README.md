@@ -2,7 +2,7 @@
 ## Hi there 👋 I'm **Sahar Riabi**  
 🎓 IT Engineering Student at ESPRIT  
 
----
+
 ## 🚀 Technical Skills
 
 ### 💻 Programming Languages
@@ -43,16 +43,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="55"/>
   
 
----
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sahar231&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar231&layout=compact&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Sahar231&theme=radical&hide_border=false" height="160"/>
 </p>
 
----
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sahar231&label=Profile%20views&color=ff69b4&style=for-the-badge" />
+</p>
 
 ## 🌟 Connect With Me
 
